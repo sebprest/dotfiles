@@ -1,0 +1,11 @@
+yabai -m config status_bar                   off
+
+yabai -m config layout                       bsp
+yabai -m config top_padding     120
+yabai -m config bottom_padding  120
+yabai -m config left_padding    120
+yabai -m config right_padding   120
+yabai -m config window_gap      40
+
+yabai -m config mouse_follows_focus          on
+yabai -m config auto_balance                 off

@@ -1,0 +1,18 @@
+# Display
+
+header_visibility = "no"
+statusbar_visibility = "no"
+playlist_display_mode = "classic"
+song_list_format = "$2%b $0»$8 %t$R %n"
+progressbar_look = "▂▂▂"
+
+# Colours
+
+colors_enabled = "yes"
+progressbar_elapsed_color = "red"
+main_window_color = "white"
+
+# Misc
+
+autocenter_mode = "yes"
+centered_cursor = "yes"

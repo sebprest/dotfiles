@@ -1,0 +1,108 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+  
+    // Font
+    "editor.fontFamily": "Operator Mono SSm Lig",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+  
+    // Icons
+    "workbench.iconTheme": "Monokai Pro Monochrome Icons",
+    "monokaiPro.fileIconsMonochrome": true,
+  
+    // Hiding things
+    "workbench.statusBar.visible": false,
+    "window.title": "",
+    "editor.highlightActiveIndentGuide": false,
+    "editor.renderIndentGuides": false,
+    "workbench.activityBar.visible": false,
+    "editor.glyphMargin": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "editor.lineNumbers": "off",
+    "editor.folding": false,
+  
+    // Tabs
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.showIcons": false,
+  
+    // Sidebar
+    "workbench.sideBar.location": "right",
+    "workbench.tree.indent": 4,
+    "search.collapseResults": "alwaysCollapse",
+  
+    // Language specific
+    "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true
+    },
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "typescript.autoClosingTags": false,
+    "emmet.triggerExpansionOnTab": true,
+  
+    // Telemetry
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "extensions.autoUpdate": false,
+    "extensions.ignoreRecommendations": true,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+  
+    // Colour customisations
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#1A1D21",
+      "panel.background": "#1A1D21",
+      "sideBar.background": "#1A1D21",
+      "editor.background": "#1A1D21",
+      "tab.inactiveBackground": "#1A1D21",
+      "tab.activeBackground": "#1A1D21",
+      "tab.border": "#1A1D21",
+      "editorGroupHeader.tabsBackground": "#1A1D21",
+      "titleBar.activeBackground": "#1A1D21",
+      "titleBar.inactiveBackground": "#1A1D21",
+      "titleBar.border": "#1A1D21",
+      "scrollbar.shadow": "#1A1D21",
+      "widget.shadow": "#1A1D21",
+      "contrastActiveBorder": "#1A1D21",
+      "contrastBorder": "#1A1D21",
+      "focusBorder": "#1A1D21",
+      "sideBar.border": "#1A1D21",
+      "sideBarSectionHeader.background": "#1A1D21",
+      "menu.selectionBackground": "#1A1D21",
+      "list.activeSelectionBackground": "#1A1D21",
+      "list.inactiveSelectionBackground": "#1A1D21",
+      "list.hoverBackground": "#1A1D21",
+      "editor.lineHighlightBackground": "#1A1D21",
+      "editorCursor.foreground": "#008b94",
+      "editorOverviewRuler.border": "#1A1D21",
+      "editorGroup.border": "#1A1D21",
+      "scrollbarSlider.background": "#1A1D21",
+      "editor.lineNumberBackground": "#1A1D21",
+      "editorGutter.background": "#1A1D21",
+      "editorOverviewRuler.infoForeground": "#1A1D21",
+      "editorOverviewRuler.errorForeground": "#1A1D21",
+      "editorOverviewRuler.warningForeground": "#1A1D21",
+      "editorOverviewRuler.wordHighlightStrongForeground": "#1A1D21",
+      "editorOverviewRuler.rangeHighlightForeground": "#1A1D21",
+      "editorOverviewRuler.selectionHighlightForeground": "#1A1D21",
+      "editorOverviewRuler.addedForeground": "#1A1D21",
+      "editorOverviewRuler.bracketMatchForeground": "#1A1D21",
+      "editorOverviewRuler.commonContentForeground": "#1A1D21",
+      "editorOverviewRuler.currentContentForeground": "#1A1D21",
+      "editorOverviewRuler.deletedForeground": "#1A1D21",
+      "editorOverviewRuler.findMatchForeground": "#1A1D21",
+      "editorOverviewRuler.incomingContentForeground": "#1A1D21",
+      "editorOverviewRuler.modifiedForeground": "#1A1D21",
+      "editorOverviewRuler.wordHighlightForeground": "#1A1D21",
+      "tab.activeBorder": "#1A1D21",
+      "tab.activeModifiedBorder": "#1A1D21",
+      "tab.hoverBorder": "#1A1D21",
+      "tab.inactiveModifiedBorder": "#1A1D21",
+      "tab.unfocusedActiveBorder": "#1A1D21",
+      "terminal.background": "#1A1D21",
+      "panelTitle.activeForeground": "#757678",
+      "tab.activeForeground": "#757678"
+    },
+  }
+  
+  
